@@ -1,6 +1,6 @@
 import './App.css'
 
-import RockPaperScissors from './components/RockPaperScissors'
+import RockPaperScissors from './RockPaperScissors'
 
 const App = () => <RockPaperScissors />
 
